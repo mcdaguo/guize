@@ -1,0 +1,6 @@
+# 内容：Emby
+# 域名后缀匹配
+DOMAIN-SUFFIX,stark.ddns.me
+DOMAIN-SUFFIX,hinet.ddns.me
+DOMAIN-SUFFIX,de.ddns.me
+IP-CIDR,154.7.182.57/32
