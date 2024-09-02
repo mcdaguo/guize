@@ -1,6 +1,5 @@
 #instagram
 DOMAIN-KEYWORD,instagram
-DOMAIN-KEYWORD,twitter
 DOMAIN-SUFFIX,cdninstagram.com
 DOMAIN-SUFFIX,instagram.com
 DOMAIN-SUFFIX,instagr.am
@@ -9,7 +8,7 @@ DOMAIN-SUFFIX,twttr.com
 DOMAIN-SUFFIX,twitter.com
 DOMAIN-SUFFIX,free.org
 DOMAIN-SUFFIX,reverse.com
-DOMAIN-SUFFIX,X.com
+DOMAIN-SUFFIX,x.com
 DOMAIN-SUFFIX,periscope.tv
 DOMAIN-SUFFIX,pscp.tv
 DOMAIN-SUFFIX,t.co
