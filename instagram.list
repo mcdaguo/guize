@@ -3,6 +3,7 @@ DOMAIN-KEYWORD,instagram
 DOMAIN-SUFFIX,cdninstagram.com
 DOMAIN-SUFFIX,instagram.com
 DOMAIN-SUFFIX,instagr.am
+DOMAIN-SUFFIX,fbcdn.net
 IP-CIDR,74.125.0.0/16
 IP-CIDR,31.13.64.0/18
 IP-CIDR,69.171.224.0/19
