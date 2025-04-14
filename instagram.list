@@ -19,6 +19,7 @@ DOMAIN-SUFFIX,twitpic.com
 DOMAIN-SUFFIX,twitter.com
 DOMAIN-SUFFIX,twitter.jp
 DOMAIN-SUFFIX,vine.co
+DOMAIN-SUFFIX,edge-mqtt.facebook.com
 IP-CIDR,74.125.0.0/16
 IP-CIDR,31.13.64.0/18
 IP-CIDR,69.171.224.0/19
