@@ -27,3 +27,9 @@ DOMAIN-SUFFIX,claude.ai.com
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,challenges.cloudflare.com
 DOMAIN-SUFFIX,augmentcode.com
+DOMAIN-SUFFIX,tubitv.com
+DOMAIN-SUFFIX,tubi.video
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,chat.openai.com
+DOMAIN-SUFFIX,auth0.openai.com
+#DOMAIN-SUFFIX,challenges.cloudflare.com
