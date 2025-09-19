@@ -122,9 +122,11 @@ DOMAIN-SUFFIX,yiliao.hupan.com
 # Adobe
 DOMAIN-SUFFIX,*.adobe.io
 DOMAIN-SUFFIX,*.adobestats.io
+DOMAIN-SUFFIX,*.hstatic.io
 DOMAIN-SUFFIX,adobe.io
 DOMAIN-SUFFIX,adobestats.io
 DOMAIN-SUFFIX,lcs-cops.adobe.io
+DOMAIN-SUFFIX,hstatic.io
 DOMAIN-SUFFIX,stats-api.skylum.com
 DOMAIN-SUFFIX,3dns-2.adobe.com
 DOMAIN-SUFFIX,3dns-3.adobe.com
